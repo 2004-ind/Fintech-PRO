@@ -69,9 +69,11 @@ On the app you can select a fintech professional from the application interfaceâ
 
 ![](Images/Address_balance.png)
 
+### Sender's transaction history
+
 ![](Images/Transaction_history.png)
 
-### recipient's address balance and history
+### Recipient's address balance and history
 
 ![](Images/recipients_address_balance.png)
 
