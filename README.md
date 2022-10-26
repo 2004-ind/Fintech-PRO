@@ -56,7 +56,7 @@ When you open Ganache, you are presented with two options for creating a workspa
 
 ## Usage
 
-To use this application just clone the repository and in the terminal navigate to the project folder, run the Streamlit application by using `streamlit run pychain.py`.
+To use this application just clone the repository and in the terminal navigate to the project folder, run the Streamlit application by using `streamlit run fintech_finder.py`.
 
 You can now view your Streamlit app in your browser.
 
